@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://easyeda.com" target="_blank"> <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" alt="easyeda" width="40" height="40"/> </a>
 <a href="https://sparkfun.com/" target="_blank"> <img src="https://cdn.sparkfun.com/assets/5/3/4/3/1/52b1e48a757b7f28448b4567.png" alt="fritzing" width="40" height="40"/> </a>
-  <a href="https://platformio.org" target="_blank"> <img src="https://user-images.githubusercontent.com/29748439/136673503-c8b0d232-db03-4236-83a5-e40cf07baf31.png" alt="platformio" width="40" height="40"/> </a>
+  <a href="https://platformio.org" target="_blank"> <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="platformio" width="40" height="40"/> </a>
 </p>
 
 ### Overview
